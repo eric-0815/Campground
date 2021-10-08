@@ -6,7 +6,6 @@ const Review = require('../models/review');
 
 const { reviewSchema } = require('../schemas.js');
 
-
 const ExpressError = require('../utils/ExpressError');
 const catchAsync = require('../utils/catchAsync');
 
@@ -19,8 +18,6 @@ const validateReview = (req, res, next) => {
         next();
     }
 }
-
-
 
 router.post('/', validateReview, catchAsync(async (req, res) => {
     const campground = await Campground.findById(req.params.id);
