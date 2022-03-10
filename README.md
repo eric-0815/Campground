@@ -1,4 +1,4 @@
-# YelpCamp
+# Campground website
 
 
 ## Features
