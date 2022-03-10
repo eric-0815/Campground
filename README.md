@@ -23,9 +23,8 @@
 
   * Upload campground photos
 
-  * Display campground location on Google Maps
+  * Display campground location on Mapbox
   
-  * Search existing campgrounds
 
 * Manage user account with basic functionalities:
 
