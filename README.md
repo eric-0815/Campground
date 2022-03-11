@@ -1,9 +1,5 @@
-# YelpCamp
+# Campground website
 
-
-## Live Demo
-
-To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://yelpcamp--demo.herokuapp.com/)
 
 ## Features
 
@@ -27,9 +23,8 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 
   * Upload campground photos
 
-  * Display campground location on Google Maps
+  * Display campground location on Mapbox
   
-  * Search existing campgrounds
 
 * Manage user account with basic functionalities:
 
@@ -39,16 +34,6 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 * Flash messages responding to users' interaction with the app
 
 * Responsive web design
-
-### Custom Enhancements
-
-* Update campground photos when editing campgrounds
-
-* Update personal information on profile page
-
-* Improve image load time on the landing page using Cloudinary
-
-* Use Helmet to strengthen security
  
 ## Getting Started
 
