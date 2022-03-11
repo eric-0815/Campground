@@ -1,6 +1,6 @@
 # Campground website
 
-## Heroku 
+## Deployed on Heroku 
 https://eric-campground.herokuapp.com/
 
 ## Features
